@@ -22,13 +22,10 @@ This repo contains the source code of developing a currency converter mobile app
 ## Working Sample
 The app prompts the user to select from the pulldown menu a pair of local/foreign currencies and the amount to be exchanged.
 ![app1](images/app1.png)
-
 After submission, the app will display the exchanged amount in foreign currency.
 ![app2](images/app2.png)
-
 View user log data in the database.
 ![database](images/database.png)
-
 View interesing user statistics.
 ![dashboard](images/dashboard.png)
 ---
@@ -36,9 +33,9 @@ View interesing user statistics.
 ## Components
 ---
 ### Backend Server
-* View ![source code](Currency-Converter-Mobile-App-Backend-Development/BackendServer/src)
-* View ![user statistics layout](Currency-Converter-Mobile-App-Backend-Development/BackendServer/web/dashboard.jsp)
+* View [source code](BackendServer/src)
+* View [user statistics layout](BackendServer/web/dashboard.jsp)
 
 ### Android App
-* View ![source code](AndroidApp/app/src/main/java/edu/cmu/minhsuah)
-* View ![user interface layout](AndroidApp/app/src/main/res/layout/content_main.xml) 
+* View [source code](AndroidApp/app/src/main/java/edu/cmu/minhsuah)
+* View [user interface layout](AndroidApp/app/src/main/res/layout/content_main.xml) 

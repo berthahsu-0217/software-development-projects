@@ -14,10 +14,9 @@ This repo contains the source code of developing a currency converter mobile app
 2. Implementing multiple RESTful APIs on the server to support different functionalities/services.
 3. Designing an Android application, primarily the main activities and the user interface.
 4. Using an asynchronous thread to communicate with the server without blocking the app's UI.
-5. Building a backend server that communicates with clients using HTTP
-6. Storing mobile user log data to a NoSQL-database-as-a-service.
-7. Building a web-based dashboard to display and monitor user statistics.
-8. Dockerizing the backend server and deploying it to the cloud as a web service.
+5. Storing and retrieving app user log data to a NoSQL-database-as-a-service.
+6. Building a web-based dashboard to display and monitor user statistics.
+7. Dockerizing the backend server and deploying it to the cloud as a web service.
 ---
 ## Components
 ---

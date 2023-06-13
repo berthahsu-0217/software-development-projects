@@ -20,13 +20,13 @@ This repo contains the source code of developing a currency converter mobile app
 8. Dockerizing the backend server and deploying it to the cloud as a web service.
 ---
 ## Working Sample
-The app prompts the user to select from the pulldown menu a pair of local/foreign currencies and the amount to be exchanged.
+* The app prompts the user to select from the pulldown menu a pair of local/foreign currencies and the amount to be exchanged.
 ![app1](images/app1.png)
-After submission, the app will display the exchanged amount in foreign currency.
+* After submission, the app will display the exchanged amount in foreign currency.
 ![app2](images/app2.png)
-View user log data in the database.
+* View user log data in the database.
 ![database](images/database.png)
-View interesing user statistics.
+* View interesing user statistics.
 ![dashboard](images/dashboard.png)
 ---
 
